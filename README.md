@@ -36,8 +36,11 @@ Flora GoGo is a modern e-commerce app for plant enthusiasts. It offers a wide ra
 - **Retrofit**: For API calls (if applicable). <--coming soon-->
 - **Room**: For local data storage (if applicable). <--coming soon-->
 
-## Screenshots
+## APK Download
 
+You can download the APK for installation directly from this [link](https://drive.google.com/file/d/11CmDvGXw7NDPPr0F4ySL8CQzo7xdJEYv/view?usp=drive_link):
+
+## Screenshots
 
 ## License
 
